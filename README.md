@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictryT
+- 👋 Hi, I’m Taysen!
 - 👀 I’m interested in developing games and programming robotics 
 - 🌱 I’m currently learning Python for ML
 - 💞️ I’m not looking to collaborate right now
